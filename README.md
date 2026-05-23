@@ -57,7 +57,7 @@ This repository contains various machine learning and data science projects. The
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/jinayshah/oasis_infobyte_data_science.git
+git clone https://github.com/JINAY2910/oasis_infobyte_data_science.git
 cd oasis_infobyte_data_science
 ```
 
